@@ -1,0 +1,41 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"C:\\\\Users\\\\PRIME\\\\Downloads\\\\Coding\\\\Business\\\\Chain Transactions\")",
+      "Bash(dir:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run build:*)",
+      "Bash(npx next build:*)",
+      "Bash(npm run dev:*)",
+      "Bash(timeout:*)",
+      "Bash(ping:*)",
+      "Bash(node:*)",
+      "Bash(npm --version)",
+      "Bash(npx next dev:*)",
+      "Bash(findstr:*)",
+      "Bash(npm ci)",
+      "Bash(where npm)",
+      "Bash(where:*)",
+      "Bash(npm config get:*)",
+      "Bash(powershell:*)",
+      "Bash(npm config:*)",
+      "Bash(npm help:*)",
+      "WebFetch(domain:docs.taostats.io)",
+      "WebFetch(domain:t.co)",
+      "WebFetch(domain:github.com)",
+      "Bash(netstat:*)",
+      "Bash(curl:*)",
+      "Bash(git clone:*)",
+      "WebFetch(domain:www.covalenthq.com)",
+      "WebFetch(domain:goldrush.dev)",
+      "WebFetch(domain:goldrush.mintlify.app)",
+      "Bash(python:*)",
+      "WebFetch(domain:docs.mintscan.io)",
+      "WebFetch(domain:docs.cosmostation.io)",
+      "WebFetch(domain:api.mintscan.io)",
+      "WebFetch(domain:stage-docs.osmosis.zone)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
