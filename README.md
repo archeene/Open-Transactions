@@ -38,7 +38,7 @@ This app uses free APIs from various providers. You need to set up your own API 
 - [Goldrush (Covalent)](https://www.goldrush.com/) - for Ronin
 - [Subscan](https://www.subscan.io/) - for Polkadot
 - [Taostats](https://taostats.io/) - for Bittensor
-- [Mintscan](https://mintscan.io/) - for Osmosis
+- [Mintscan](https://mintscan.io/) - for Osmosis ⚠️ *Requires email approval*
 
 All providers offer free tiers sufficient for personal use and testing.
 
@@ -169,12 +169,6 @@ export function validateAddress(address: string): boolean {
 ## 📄 License
 
 MIT License - see [LICENSE](LICENSE) file
-
-## 🙏 Credits
-
-- Inspired by [OpenTx](https://www.opentxapp.xyz/)
-- Built for the Awaken Tax integration bounty
-- Uses public blockchain APIs
 
 ## ⚠️ Disclaimer
 

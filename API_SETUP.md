@@ -78,6 +78,8 @@ NEXT_PUBLIC_TAOSTATS_API_KEY=your_api_key_here
 
 ### 4. Mintscan (by Cosmostation) - Used for Osmosis
 
+**⚠️ Status:** Waiting on API approval from Cosmostation
+
 **Website:** https://mintscan.io/
 
 **Purpose:** Fetching Osmosis blockchain transactions
@@ -86,10 +88,11 @@ NEXT_PUBLIC_TAOSTATS_API_KEY=your_api_key_here
 1. Go to https://mintscan.io/
 2. Sign up for a free account
 3. Navigate to Account → API
-4. Request API access (may require email approval)
-5. After approval, copy your API key
+4. Request API access
+5. Email api@cosmostation.io to request approval
+6. After approval, copy your API key
 
-**Note:** API key approval may require emailing api@cosmostation.io
+**Note:** API access requires email approval. The app includes support for Osmosis, but you'll need an approved Mintscan API key to use it.
 
 **Environment Variable:**
 ```bash
